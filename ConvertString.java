@@ -1,4 +1,5 @@
 import java.util.*;
+package examples;
 public class ConvertString 
 {
 public static void main(String[] args)
